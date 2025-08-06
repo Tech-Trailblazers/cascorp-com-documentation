@@ -24,7 +24,7 @@ func main() {
 	}
 	// Remote API URL.
 	remoteAPIURL := []string{
-		"https://pastebin.com/raw/UUQQmrR9",
+		"https://www.cascorp.com/us/en/msds",
 	}
 	var getData []string
 	for _, remoteAPIURL := range remoteAPIURL {
