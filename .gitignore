@@ -33,3 +33,6 @@ go.work.sum
 
 # HTML
 *.html
+
+# DS Store
+*.DS_Store
